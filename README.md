@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janarthanan7205
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development , Data science and Machine Learning
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 
 
 <!---
