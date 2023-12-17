@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janarthanan7205
-- 👀 I’m interested in web development , Data science and Machine Learning
+- 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Will be happy to be a part of a Tech community where I can learn stuffs daily 
