@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janarthanan7205
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning Java and MySQL
+- 💞️ I’m looking to collaborate on Java development projects
 - 📫 Will be happy to be a part of a Tech community where I can learn stuffs daily 
 
 <!---
