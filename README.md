@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janarthanan7205
 - 🌱 I’m currently learning LTspice and Cadence Virtuoso
-- 💞️ I’m looking to collaborate on Analog IC Layout
+- 💞️ I’m looking to collaborate on Analog IC Layout projects
 - 📫 Will be happy to be a part of a Tech community where I can learn stuffs daily 
 
 <!---
