@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janarthanan7205
-- 🌱 I’m currently learning LTspice, Microwind
+- 🌱 I’m currently learning LTspice, Microwind and Klayout
 - 💞️ I’m looking to collaborate on Analog IC Layout projects
 - 📫 Will be happy to be a part of a Tech community where I can learn stuffs daily 
 
